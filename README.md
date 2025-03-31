@@ -8,19 +8,13 @@
 ### Matlab
 （无需过于纠结版本）https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4OTk3MTI5Mg==&action=getalbum&album_id=3448437508713889792#wechat_redirect
 ## 提交说明
-提交文件时，在"Commit message"填写具体信息，便于大家了解
+提交文件时，在"Commit message"填写具体信息
 ## 文件说明
-### media
-搜集的数据/数据中间计算结果
-### origin
-题目原始数据
-### result
-数据最终结果
-### utils
-自定义工具函数/类
-### quest1.py
-问题1主代码
-### quest2.py
-问题2主代码
-### quest3.py
-问题3主代码
+1. media：搜集的数据/数据中间计算结果
+2. origin：题目原始数据
+3. result：
+4. 数据最终结果
+5. utils：自定义工具函数/类
+6. quest1.py：问题1主代码
+7. quest2.py：问题2主代码
+8. quest3.py：问题3主代码
